@@ -6,7 +6,7 @@ In this repo, we implemented a new sequential model called multi-resolution conv
 <img src="figures/encoder.png" width="50%" height="50%" />
 
 + Decoder
-<img src="figures/decoder.png" width="50%" height="50%" />
+<img src="figures/decoder.png" width="30%" height="30%" />
 
 ## Setting
 * Hardware:
